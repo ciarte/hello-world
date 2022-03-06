@@ -4,7 +4,7 @@
 
 ## 🦮 GUIAS
 
-* [🐶 Corre tus Carreras](guias/corre-tus-carreras.md)
+* [Corre tus Carreras](guias/corre-tus-carreras.md)
 * [Creating your first task](guias/creating-your-first-task.md)
 * [Advanced permissions](guias/advanced-permissions.md)
 

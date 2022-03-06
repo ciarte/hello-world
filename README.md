@@ -14,9 +14,9 @@ CryptoGalgo es un juego de carreras de perros descentralizado Play-to-Earn, basa
 
 :point\_up:Por cierto, los 'Good to Know' son extra tips para tener muy en cuenta.
 
+Apuntamos a ser un juego divertido, con una jugabilidad sencilla, pero con algo de estrategia doe podras ganar en el ultimo segundo de la carrera.
 
-
-Los titulares de nuestro Token, administraran el juego CryptoGalgo y su riesgo financiero loque garantizara estabilidad, transpariencia y eficacia. Para ello se realizara sistema de encuestas y votaciones administrativas para mejorar, agregar y/o modificar temas relacionados a la economia en CryptoGalgo.
+Los titulares de nuestro Token, administraran el juego CryptoGalgo y su riesgo financiero lo que garantizara estabilidad, transpariencia y eficacia. Para ello se realizara un sistema de encuestas y votaciones administrativas para mejorar, agregar y/o modificar temas relacionados a la economia en CryptoGalgo. Y asi conseguir mayor estabilidad durante mas tiempo del que estamos acostumbrados a ver en los juegos Play-to-Earn
 
 
 
