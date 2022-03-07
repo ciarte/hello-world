@@ -14,7 +14,13 @@ CryptoGalgo es un juego de carreras de perros descentralizado Play-to-Earn, basa
 
 :point\_up:Por cierto, los 'Good to Know' son extra tips para tener muy en cuenta.
 
-Apuntamos a ser un juego divertido, con una jugabilidad sencilla, pero con algo de estrategia doe podras ganar en el ultimo segundo de la carrera.
+Apuntamos a ser un juego divertido, con una jugabilidad sencilla, pero con algo de estrategia donde podras ganar en el ultimo segundo de la carrera.
+
+Donde podras apostar a tu perro, criar y vender cachorros (aunque tendremos un limite de crias que podras obtener, para evitar la explotacion animal), y mas adelante tambien podras apostar a otros corredores, .&#x20;
+
+{% hint style="info" %}
+**Good to know:** Por cierto, no solo seremos un juego de carreras y apuestas, tambien tendremos un programa de ayuda a fundaciones de animales, donde una parte de lo recaudado en las adopciones de cachorros (minteos) ira a estas fundaciones. Donde podras votar y/o proponer a que fundacion beneficiar.&#x20;
+{% endhint %}
 
 Los titulares de nuestro Token, administraran el juego CryptoGalgo y su riesgo financiero lo que garantizara estabilidad, transpariencia y eficacia. Para ello se realizara un sistema de encuestas y votaciones administrativas para mejorar, agregar y/o modificar temas relacionados a la economia en CryptoGalgo. Y asi conseguir mayor estabilidad durante mas tiempo del que estamos acostumbrados a ver en los juegos Play-to-Earn
 
@@ -42,8 +48,8 @@ sigue estos pasos para convertirte en uno de los mejores entrenadores en CryptoG
 [corre-tus-carreras.md](guias/corre-tus-carreras.md)
 {% endcontent-ref %}
 
-{% content-ref url="guias/creating-your-first-task.md" %}
-[creating-your-first-task.md](guias/creating-your-first-task.md)
+{% content-ref url="guias/entrenadores.md" %}
+[entrenadores.md](guias/entrenadores.md)
 {% endcontent-ref %}
 
 {% content-ref url="guias/advanced-permissions.md" %}
