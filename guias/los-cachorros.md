@@ -2,13 +2,13 @@
 description: como empezar?
 ---
 
-# Corre tus Carreras
+# Los Cachorros
 
 {% hint style="info" %}
 **Good to know:** Podras adoptar la cantidad que desees de cachorros, pero solo hacer la mision diaria con tres cachorros al dia, mientras no este leocionado o enfermo.. Tranquilo hay veterinarios:man\_health\_worker:
 {% endhint %}
 
-## Los Cachorros:dog:
+## :dog:
 
 Los cachorros son las estrellas del juego, tendras que adoptar uno para poder iniciarte, y cada vez que adoptes un nuevo cachorro, este tendra sus propias caracteristicas que definiran su Pedigree.
 
@@ -16,14 +16,14 @@ Siempre podras adoptar uno por el mismo costo.
 
 #### Como funciona:&#x20;
 
-Cada vez que adoptas un cachorro, este podra salir con distintas habilidades,&#x20;
+Cada vez que adoptas un cachorro, este podra salir con distintas habilidades, y una posibilidad de 20% hembra o 75% macho.
 
-| Pedigree                                                             | Velocidad | Dureza | Poder del Hueso | Duracion del Hueso | Resistencia | velocidad durante la recuperacion |
-| -------------------------------------------------------------------- | --------- | ------ | --------------- | ------------------ | ----------- | --------------------------------- |
-| [PC (perro compañero)](corre-tus-carreras.md#perro-companero.)       | 1-10      | 1.5/5  | 4-6             | 1-2seg             | 420-490     | 34-36%                            |
-| [GV (Gran vitrix)](corre-tus-carreras.md#gran-vitrix.)               | 8-15      | 0.5/5  | 3-5             | 1                  | 350-480     | 28-34%                            |
-| [TA (titulo de agilidad)](corre-tus-carreras.md#titulo-de-agilidad.) | 10-17     | 0.5/3  | 3-5             | 1                  | 400-450     | 30-35%                            |
-| [FB (fly ball)](corre-tus-carreras.md#undefined)                     | 15-20     | 0.5/3  | 4               | 1                  | 430-460     | 32-36%                            |
+| Pedigree                                                        | Velocidad | Dureza | Poder del Hueso | Duracion del Hueso | Resistencia | velocidad durante la recuperacion |
+| --------------------------------------------------------------- | --------- | ------ | --------------- | ------------------ | ----------- | --------------------------------- |
+| [PC (perro compañero)](los-cachorros.md#perro-companero.)       | 1-10      | 1.5/10 | 4-6             | 1-2seg             | 420-490     | 34-36%                            |
+| [GV (Gran vitrix)](los-cachorros.md#gran-vitrix.)               | 8-15      | 2/10   | 3-5             | 1                  | 350-480     | 28-34%                            |
+| [TA (titulo de agilidad)](los-cachorros.md#titulo-de-agilidad.) | 10-17     | 3/10   | 3-5             | 1                  | 400-450     | 30-35%                            |
+| [FB (fly ball)](los-cachorros.md#undefined)                     | 15-20     | 3/10   | 4               | 1                  | 430-460     | 32-36%                            |
 
 ## **Expliquemos un poco el Pedigree;**
 
@@ -49,4 +49,8 @@ Probabilidades de adopciones:dog2:
 * Gran Vitrix 35%
 * Titulo de Agilidad 12%
 * Fly Ball 8%
+
+### Nuevos cachorros?
+
+Para obtenerlos se deberan combinar uno de cada sexo, y el resultado de esta hermosa mezcla, nos dara un cachorro, la rareza tendra mas influencia de la madre, las habilidades sera un promedio de ambos, el sexo sera igual que cuando adoptamos (20% hembra o 75% macho).
 

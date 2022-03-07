@@ -4,7 +4,7 @@
 
 ## 🦮 GUIAS
 
-* [Corre tus Carreras](guias/corre-tus-carreras.md)
+* [Los Cachorros](guias/los-cachorros.md)
 * [Entrenadores](guias/entrenadores.md)
 * [Veterinario](guias/veterinario.md)
 
