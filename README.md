@@ -52,8 +52,8 @@ sigue estos pasos para convertirte en uno de los mejores entrenadores en CryptoG
 [entrenadores.md](guias/entrenadores.md)
 {% endcontent-ref %}
 
-{% content-ref url="guias/advanced-permissions.md" %}
-[advanced-permissions.md](guias/advanced-permissions.md)
+{% content-ref url="guias/veterinario.md" %}
+[veterinario.md](guias/veterinario.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

@@ -6,7 +6,7 @@
 
 * [Corre tus Carreras](guias/corre-tus-carreras.md)
 * [Entrenadores](guias/entrenadores.md)
-* [Advanced permissions](guias/advanced-permissions.md)
+* [Veterinario](guias/veterinario.md)
 
 ## Fundamentals
 
